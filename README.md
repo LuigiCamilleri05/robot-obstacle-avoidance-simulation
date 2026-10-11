@@ -1,6 +1,6 @@
-# Robotics-2
+# Simulation of an Autonomous Robot with Dynamic Obstacle Avoidance
 
-This project contains a ROS 2 package for running a simulated differential drive robot with autonomous navigation, SLAM, and dynamic obstacle avoidance.
+This project contains a ROS 2 package for running a simulated robot with autonomous navigation, SLAM, and dynamic obstacle avoidance.
 
 ## Prerequisites
 
